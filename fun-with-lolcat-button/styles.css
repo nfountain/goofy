@@ -1,0 +1,14 @@
+#lolcatButton {
+	background-color: purple;
+	color: white;
+	font-size: 14px;
+	line-height: 18px;
+}
+
+#lolcatButton:hover {
+	cursor: pointer;
+}
+
+#bigReveal {
+	display: none;
+}
